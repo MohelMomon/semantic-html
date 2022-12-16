@@ -1,12 +1,9 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Solving Sematic Errors
 
-## Challenges in This Course
+## Errors: 
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
+  Adjusting all the Div tags to make them Sematicaly correct.
+  
+    Added : <Main>, <Section>, <aside> and <footer> tags 
 
-### Challenge Types 
-
-The two types of Challenges are the following:
-![Banana](./assets/images/lead-generation.png)
-
-
+  [Updated_Page_version](https://mohelmomon.github.io/semantic-html/)
